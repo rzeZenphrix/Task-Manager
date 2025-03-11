@@ -33,7 +33,7 @@ Run the app in development mode:
 To build the app for Windows:
   npx electron-builder --win
 
-📝 **Contributing**
+📝 **Contributing**  
 Contributions are welcome! If you'd like to improve this project:
 1. Fork the repo
 2. Create a new branch (git checkout -b feature-name)
@@ -47,4 +47,4 @@ This project is licensed under the MIT License.
 📧 Contact
 📩 If you have any questions, feel free to reach out:
 <a href="https://instagram.com/zenphrix/" target="_blank">Instagram</a>
-<a href="https://eokenwa-portfolio.emadicts.com/" target="_blank">Portfolio</a>
+<a href="https://portfolio-xxun.onrender.com/" target="_blank">Portfolio</a>
