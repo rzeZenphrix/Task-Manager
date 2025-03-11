@@ -13,7 +13,14 @@ A simple and efficient task management desktop app built with Electron.
 For Windows & Mac
 Download the installer from the Releases section or the website.
 Run the Task Manager Setup.exe file and follow the instructions.
-Then, open the app!
+Then, open the app! If Microsoft Defender prevents the app from starting, please don't be alarmed.
+There is no signing certificate for this app. I guarantee there is no malicious code in the software.
+Simply click the X and re-run the installer from your downloads folder.
+
+App: 
+Task.Manager.Setup.1.0.0.exe 
+Publisher:  
+Unknown publisher
 
 For Developers (Build from Source)
 Clone the repo:
