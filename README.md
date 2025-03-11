@@ -12,7 +12,7 @@ A simple and efficient task management desktop app built with Electron.
 ✅ Organize tasks with categories
 
 🛠 **Installation For Windows**
-Download the installer from the Releases section or the website.
+Download the installer from the <a href="https://github.com/rzeZenphrix/Task-Manager/releases" target="_blank">releases</a> section or the <a href="https://portfolio-xxun.onrender.com/task-manager-download.html" target="_blank">website</a>.
 Run the Task Manager Setup.exe file and follow the instructions.
 Then, open the app! If Microsoft Defender prevents the app from starting, please don't be alarmed.
 There is no signing certificate for this app. I guarantee there is no malicious code in the software.
@@ -46,5 +46,5 @@ This project is licensed under the MIT License.
 
 📧 Contact
 📩 If you have any questions, feel free to reach out:
-Instagram: https://instagram.com/zenphrix/  
-Website: https://eokenwa-portfolio.emadicts.com/
+<a href="https://instagram.com/zenphrix/" target="_blank">Instagram</a>
+<a href="https://eokenwa-portfolio.emadicts.com/" target="_blank">Portfolio</a>
