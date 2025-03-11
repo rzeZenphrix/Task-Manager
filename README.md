@@ -17,13 +17,13 @@ Open the app and start managing your tasks!
 
 For Developers (Build from Source)
 Clone the repo:
-  git clone https://github.com/rzeZenphrix/Task-Manager.git  
-cd Task-Manager
+  git clone https://github.com/rzeZenphrix/Task-Manager.git. 
+cd Task-Manager.
 Install dependencies:
-  npm install
+  npm install.
 Run the app in development mode:
-  npm start
-to build the app for Windows:
+  npm start.
+To build the app for Windows:
   npx electron-builder --win
 
 📝 Contributing
