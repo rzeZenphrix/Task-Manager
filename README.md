@@ -12,17 +12,21 @@ A simple and efficient task management desktop app built with Electron.
 🛠 Installation
 For Windows & Mac
 Download the installer from the Releases section or the website.
-You can just run the Task Manager Setup.exe file and follow the instructions.
-Open the app and start managing your tasks!
+Run the Task Manager Setup.exe file and follow the instructions.
+Then, open the app!
 
 For Developers (Build from Source)
 Clone the repo:
-  git clone https://github.com/rzeZenphrix/Task-Manager.git. 
-cd Task-Manager.
+  git clone https://github.com/rzeZenphrix/Task-Manager.git
+  
+cd Task-Manager
+
 Install dependencies:
-  npm install.
+  npm install
+  
 Run the app in development mode:
-  npm start.
+  npm start
+  
 To build the app for Windows:
   npx electron-builder --win
 
