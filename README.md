@@ -1,24 +1,24 @@
-📌 **Task Manager**
+📌 **Task Manager:**
 A simple and efficient task management desktop app built with Electron.
 
 
-📜 **Features**
+📜 **Features:**
 ✅ Set deadlines and reminders
 ✅ Lightweight and fast
 ✅ Auto-updates using Electron Updater
 
-📜 **Up Coming Features**
+📜 **Up Coming Features:**
 ✅ Add, edit, and delete tasks
 ✅ Organize tasks with categories
 
-🛠 **Installation For Windows**
-Download the installer from the <a href="https://github.com/rzeZenphrix/Task-Manager/releases" target="_blank">releases</a> section or the <a href="https://portfolio-xxun.onrender.com/task-manager-download.html" target="_blank">website</a>.
+🛠 **Installation For Windows:**
+Download the installer from the <a href="https://github.com/rzeZenphrix/Task-Manager/releases" target="_blank">releases</a> section or the <a href="https://portfolio-xxun.onrender.com/projects.html" target="_blank">website</a>.
 Run the Task Manager Setup.exe file and follow the instructions.
 Then, open the app! If Microsoft Defender prevents the app from starting, please don't be alarmed.
 There is no signing certificate for this app. I guarantee there is no malicious code in the software.
 Simply click on "more info" and "run anyway".
 
-**For Developers (Build from Source)**
+**For Developers (Build from Source):**
 Clone the repo:
   git clone https://github.com/rzeZenphrix/Task-Manager.git
   
@@ -41,7 +41,7 @@ Contributions are welcome! If you'd like to improve this project:
 4. Push your branch (git push origin feature-name)
 5. Submit a Pull Request
 
-📜 **License**
+📜 **License**  
 This project is licensed under the MIT License.
 
 📧 Contact
